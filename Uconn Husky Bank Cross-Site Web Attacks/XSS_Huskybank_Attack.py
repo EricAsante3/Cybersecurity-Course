@@ -4,12 +4,12 @@ app = Flask(__name__)
 
 @app.route('/')
 def start():
-    # Redirect to the route where the CSRF attack is triggered
+    # Redirect to the route where the XSS attack is triggered
     return redirect('/Q3')
 
 @app.route('/Q3')
 def index():
-    # This page will automatically trigger the CSRF attack
+    # This page will automatically trigger the XSS attack
     return '''<!DOCTYPE html>
             <html lang="en">
             <head>
