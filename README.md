@@ -1,4 +1,4 @@
-# Cybersecurity (CSE 3140) CourseWork
+# Cyber Security (CSE 3140) CourseWork
 
 This repository contains projects and coursework completed for my Cyber Security class. The work focuses on fundamental cybersecurity topics, including malware creation, password security, hashing, and web-based attack simulations. Below is a breakdown of the folders and files in this repository:
 
