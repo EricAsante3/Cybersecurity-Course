@@ -1,14 +1,33 @@
-# Cyber Security (CSE 3140) CourseWork
+# **Cybersecurity (CSE 3140) Coursework**  
 
-This repository contains projects and coursework completed for my Cyber Security class. The work focuses on fundamental cybersecurity topics, including malware creation, password security, hashing, and web-based attack simulations. Below is a breakdown of the folders and files in this repository:
+This repository contains projects and coursework completed for my **Cybersecurity (CSE 3140)** class. The work focuses on fundamental cybersecurity topics, including malware creation, password security, hashing, and web-based attack simulations.  
 
 ---
-## **Repository Structure**
-### **Malware Creation Lab**:
->Description: Lab focused on malware concepts and creation. This lab explores how malware can be structured, the principles of malicious code, and countermeasures for protection.
 
-### **Passwords and Hashing Lab**:
->Description: Lab dedicated to understanding password security, hashing algorithms, and their role in securing systems. This includes exercises on securely hashing and verifying passwords.
+## **Repository Overview**  
 
-### **UConn Husky Bank Cross-Site Web Attacks**:
->Description: Lab demonstrated to Cross-Site Scripting (XSS) attack simulation, showing vulnerabilities in web applications. Attacks aimed towards UConn Husky Banking site.
+### **1. Malware Creation Lab**  
+**Description:**  
+This lab explores the foundational concepts of malware development. It focuses on how malware is structured, the principles behind malicious code, and methods to identify and mitigate such threats.  
+
+### **2. Passwords and Hashing Lab**  
+**Description:**  
+This lab is dedicated to understanding:  
+- Password security fundamentals.  
+- Hashing algorithms (e.g., SHA-256, MD5).  
+- Techniques for securely hashing and verifying passwords to protect systems.  
+
+### **3. UConn Husky Bank Cross-Site Web Attacks**  
+**Description:**  
+This script demonstrates a **Cross-Site Scripting (XSS)** attack simulation, highlighting common vulnerabilities in web applications. The lab focuses on identifying and exploiting weaknesses in the **UConn Husky Bank** platform as part of the coursework.  
+
+---
+
+## **Technologies and Tools Used**  
+
+- **Python**: For scripting, malware creation, and automation.  
+- **Flask**: Used to build lightweight web-based examples for testing attacks.  
+- **Linux Command Line**: Tools for security testing, file manipulation, and system operations.  
+- **REST API**: Implemented for secure communication and lab exercises.  
+- **Hashing Algorithms**: Utilized SHA-256, MD5, or bcrypt for password security labs.  
+- **JavaScript/HTML**: For simulating and testing XSS vulnerabilities in web applications.
