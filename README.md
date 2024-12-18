@@ -25,9 +25,9 @@ This script demonstrates a **Cross-Site Scripting (XSS)** attack simulation, hig
 
 ## **Technologies and Tools Used**  
 
-- **Python**: For scripting, malware creation, and automation.  
-- **Flask**: Used to build lightweight web-based examples for testing attacks.  
-- **Linux Command Line**: Tools for security testing, file manipulation, and system operations.  
-- **REST API**: Implemented for secure communication and lab exercises.  
-- **Hashing Algorithms**: Utilized SHA-256, MD5, or bcrypt for password security labs.  
-- **JavaScript/HTML**: For simulating and testing XSS vulnerabilities in web applications.
+- **Python**  
+- **Flask** 
+- **Linux Command Line** 
+- **REST API**  
+- **Hashing Algorithms** 
+- **JavaScript/HTML**
