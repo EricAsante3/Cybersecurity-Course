@@ -17,7 +17,7 @@
 </div>
 
 ---
-![Official Bank Site](./Uconn%20Husky%20Bank%20Cross-Site%20Web%20Attacks/Phishing%20Husky%20Banking%20Attack/Snapshots/Offical_Banking_Site.PNG "Official Bank Site")
+![Official Bank Site](Cybersecurity-Course/Uconn%20Husky%20Bank%20Cross-Site%20Web%20Attacks/Phishing%20Husky%20Banking%20Attack/Snapshots/Offical_Banking_Site.PNG "Official Bank Site")
 
 Unsuspecting users' keystrokes and credentials are logged and saved in "Logged-Credentials.txt" file unknowingly. 
 While maintaining official banking site's functionality.
