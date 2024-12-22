@@ -4,7 +4,7 @@
 
   <!-- Official Hosted Bank Site -->
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="./Uconn Husky Bank Cross-Site Web Attacks/Phishing Husky Banking Attack/Snapshots/Offical_Banking_Site.PNG" alt="Official Bank Site" style="width: 100%; height: auto;">
+    <img src="./Uconn Husky Bank Cross-Site Web Attacks/Phishing Husky Banking Attack/Snapshots/Official_Banking_Site.PNG" alt="Official Bank Site" style="width: 100%; height: auto;">
     <p>Official Hosted Bank Site</p>
   </div>
 
