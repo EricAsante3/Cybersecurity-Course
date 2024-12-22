@@ -1,4 +1,4 @@
-# Offical Husky Banking Site
+# Vulnerable Husky Banking Site
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px;">
 
